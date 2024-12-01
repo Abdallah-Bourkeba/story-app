@@ -1,6 +1,6 @@
 # Story App
 
-A web application that allows users to create, read, update, and delete stories. Built with Node.js, Express.js, MongoDB, and EJS render engine.
+This web application enables users to create, read, update, and delete stories, offering a streamlined content management experience. Built with Node.js, Express.js, MongoDB, and EJS, it also integrates Google authentication for a secure and seamless login process.
 
 ## Features
 
